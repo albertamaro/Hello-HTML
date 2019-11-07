@@ -1,7 +1,7 @@
 ## Projecte Hello World
 El projecte és una pàgina web amb un títol i una imatge.
 
-![imagen](imagen.jpg)
+![imagen](imagen.jpeg)
 
 Instruccions per descarregar i editar el codi:
 ```
